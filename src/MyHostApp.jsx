@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+  import React, { useState } from 'react';
 import { MapPin, Home, Users, Star, Plus, Menu, X, Sparkles, Search, Globe, Heart, Calendar, User } from 'lucide-react';
 import { calculateBookingFees, calculateNights, FEE_CONFIG } from './utils/paymentUtils';
 
